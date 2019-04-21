@@ -14,9 +14,8 @@ As we know that linear regression helps in predicting continuous values only, i 
 For better understanding of dataset, below provided scatterplot shows the linear relationship between these two variables.
 ![Image of bar graph](https://github.com/prashantsihag03/Simple-Linear-Regression-from-Scratch/blob/master/extra/graph.png)
 
-With linear regression you can fit a line through the data.For instance, as the EngineSize increases, so do the emissions.A good model can be used to predict what the approximate emission of each car is.
-The form of the model would be 
-***yhat = θ0 +θ1 x1*** 
+With linear regression you can fit a line through the data.For instance, as the EngineSize increases, so do the emissions.A good model can be used to predict what the approximate emission of each car is.<br>
+The form of the model would be: ***yhat = θ0 +θ1 x1*** <br>
 In this equation, *yhat* is the dependent variable or the predicted value, and x1 is the independent variable; θ0 and θ1 are the parameters of the line that we must adjust. θ1 is known as the "slope" or "gradient" of the fitting line and θ0 is known as the "intercept." θ0 and θ1 are also called the coefficients of the linear equation. You can interpret this equation as yhat being a function of x1, or yhat being dependent of x1.
 
 Linear regression estimates the coefficients of the line. This means we must calculate θ0 and θ1 to find the best line to ‘fit’ the data.

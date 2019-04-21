@@ -23,5 +23,5 @@ This is how you can find the slope of a line:
 
 ![Image of bar graph](https://github.com/prashantsihag03/Simple-Linear-Regression-from-Scratch/blob/master/extra/Equation.png)
 
-And bias can be fond by using the main equation of linear regresion which is : bias = mean value of y - (slope*\mean value of x).
+And bias can be found by using the main equation of linear regresion which is : bias = mean value of y - (slope*\mean value of x).
 finally, we are ready to predict.

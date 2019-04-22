@@ -3,8 +3,6 @@ import pandas as pd
 
 def load_data(file, dependent_var, independent_var):
     data = pd.read_csv(file, header=None)
-    data.head()
-    data.decsribe()
     x_test = np.array(data.iloc[: ,dependent_var])
     y_test = np.array(data.iloc[: ,independent_var])
     return x_test, y_test

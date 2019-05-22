@@ -1,5 +1,5 @@
 # Simple-Linear-Regression-from-Scratch
-In this repository, I have created  Simple Linear Regression algorithm from scratch in a simplest way.
+Simple Linear Regression algorithm from scratch in a simplest way.
 
 ## DataSet ##
 The data set used is completely fictional and consists only 9 records and 4 attributes which are EngineSize, Cylinders, Fuel Consumption, CO2Emission.  First atribute is taken as independent variable and last attribute as target variable. 
